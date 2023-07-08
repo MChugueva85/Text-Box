@@ -1,4 +1,4 @@
-package text_box.page.Page;
+package text_box.page.page;
 
 import com.codeborne.selenide.SelenideElement;
 

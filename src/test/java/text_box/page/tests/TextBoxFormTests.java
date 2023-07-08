@@ -1,7 +1,7 @@
-package text_box.page.Tests;
+package text_box.page.tests;
 
-import text_box.page.Page.Components.ResultComponent;
-import text_box.page.Page.TextBoxPageTests;
+import text_box.page.page.components.ResultComponent;
+import text_box.page.page.TextBoxPageTests;
 import org.junit.jupiter.api.Test;
 
 

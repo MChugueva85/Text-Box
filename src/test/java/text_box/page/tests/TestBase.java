@@ -1,4 +1,4 @@
-package text_box.page.Tests;
+package text_box.page.tests;
 
 
 import com.codeborne.selenide.Configuration;
